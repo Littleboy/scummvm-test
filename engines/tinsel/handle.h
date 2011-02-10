@@ -41,6 +41,7 @@ namespace Tinsel {
 void SetupHandleTable();
 void FreeHandleTable();
 
+// Locks memory for access
 byte *LockMem(SCNHANDLE offset);
 
 void LockScene(SCNHANDLE offset);
