@@ -365,4 +365,3 @@ Common::String OSystem_Wii::getSystemLanguage() const {
 	}
 }
 #endif // !GAMECUBE
-

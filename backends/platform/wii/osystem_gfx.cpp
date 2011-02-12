@@ -758,4 +758,3 @@ void OSystem_Wii::setMouseCursor(const byte *buf, uint w, uint h, int hotspotX,
 		_cursorPaletteDirty = true;
 }
 
-

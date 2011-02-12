@@ -316,4 +316,3 @@ void WiiOptionsDialog::save() {
 	ConfMan.flushToDisk();
 }
 
-
